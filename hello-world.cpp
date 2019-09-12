@@ -3,4 +3,5 @@
 int main()
 {
   printf("%s", "Howdy, world!");
+  return 0;
 }
